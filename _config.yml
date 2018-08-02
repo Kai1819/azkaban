@@ -11,3 +11,9 @@ repo: "azkaban/azkaban"
 plugins_repo: "azkaban/azkaban-plugins"
 docs: "/"
 home: "http://azkaban.github.io"
+
+title: Azkaban
+description: Azkaban scheduler re-written from the ground up.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
